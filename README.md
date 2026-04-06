@@ -45,7 +45,7 @@ To bridge the gap between data engineering and artificial intelligence, creating
 ![](https://github-readme-stats.vercel.app/api?username=rafa0107&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rafa0107&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa0107&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa0107&theme=github-compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
