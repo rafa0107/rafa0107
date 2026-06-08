@@ -1,21 +1,22 @@
 # 💫 About Me:
 
-I am currently focused on the Data field, working on projects that involve data collection, analysis, and strategic pipeline development. My main goal is to transform raw data into valuable insights through efficient data workflows and intelligent systems.
+Atualmente, meu foco está nas áreas de Engenharia de Software e de Dados, atuando no desenvolvimento de sistemas backend robustos, pipelines de dados escaláveis e fluxos eficientes de integração. Meu objetivo principal é projetar arquiteturas estáveis que processem informações com eficácia, garantindo alto desempenho, código limpo e sistemas automatizados confiáveis.
 
-I have been developing skills in data scraping, exploratory data analysis, and data visualization, building end-to-end pipelines that support decision-making and automation.
+Tenho desenvolvido sólidas habilidades em programação backend, integrações de APIs, modelagem de bancos de dados e coleta automatizada de dados (web scraping). Meu foco na construção de aplicações ponta a ponta prioriza a modularidade do código, o tratamento de erros e a resiliência do sistema.
 
-In parallel, I am integrating Artificial Intelligence into my work — especially through the development of AI-powered solutions such as chatbots and autonomous agents using Retrieval-Augmented Generation (RAG).
+Em paralelo, implemento Inteligência Artificial aplicada à arquitetura de software — especificamente projetando e implantando soluções de backend integradas com IA, como serviços inteligentes e fluxos de trabalho automatizados utilizando Geração Aumentada de Recuperação (RAG).
 
 🛠️ Tech Stack:
 
-Data & Analysis: Pandas, NumPy, Matplotlib, Seaborn
-Web Scraping: BeautifulSoup, Selenium, Requests, Scrapy
-AI & Machine Learning: TensorFlow, OpenRouter, RAG architectures
-Automation: AI Agents, Chatbots, Data Pipelines
+Linguagens e Backend: Python, Java, C, JavaScript, APIs REST, Requests
 
-🎯 Goal:
+Bancos de Dados e Arquitetura: MySQL, Modelagem Relacional, Pipelines de Dados, Arquitetura em Camadas
 
-To bridge the gap between data engineering and artificial intelligence, creating scalable, intelligent, and automated solutions that turn data into real business value.
+Web Scraping e Automação: Scrapy, BeautifulSoup, Selenium
+
+IA e Engenharia: Arquiteturas RAG, LangChain, Agentes de IA, Streamlit
+
+DevOps e Ferramentas: Git/GitHub, Jira/Scrum
 
 
 ## 🌐 Socials:
